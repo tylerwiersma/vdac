@@ -1,4 +1,9 @@
 Voice Deactivated Alarm Clock
+Tyler Wiersma
+
+To install:
+
+Install it from android studio, open it, allow microphone, and it'll be ready to go.
 
 Buggy features:
 
